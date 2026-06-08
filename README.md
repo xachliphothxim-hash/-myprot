@@ -2,6 +2,5 @@
 สวัสดีค่ะ<br>
 ดิฉัน ชื่อนางสาวนิชานันท์ โพธิ์อิ่ม<br>
 เลขที่30 ม.6/4<br>
-ได้ร่วมกิจกรรมต้นกล้ารัฐสภา ที่รัฐสภา <br>
-<img width="678" height="479" alt="image" src="https://github.com/user-attachments/assets/bb81753b-e75e-48c3-8b17-c4b9c80a8aa8" />
-
+<br>
+<img width="378" height="476" alt="image" src="https://github.com/user-attachments/assets/1d8b6d8c-eda4-4be9-9962-f60a9c946b06" />
